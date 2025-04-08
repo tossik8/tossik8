@@ -7,7 +7,7 @@ I'm a passionate front end developer. I love working on exciting projects, learn
 - **Languages:** JavaScript, TypeScript
 - **Frameworks:** Vue, React, Node.js, Express
 - **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Git, Docker, Azure
+- **Tools:** Git, Docker, Azure, NPM
 
 ## 🚀 Projects
 
