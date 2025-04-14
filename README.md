@@ -1,11 +1,11 @@
 # Hi there, I'm Tossik8! 👋
 
-I'm a passionate front end developer. I love working on exciting projects, learning new technologies, and contributing to the community.
+I'm a passionate full-stack developer. I love working on exciting projects, learning new technologies, and contributing to the community.
 
 ## 🛠 Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** Vue, React, Node.js, Express
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks:** Vue, React, Node.js, FastAPI
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools:** Git, Docker, Azure, NPM
 
@@ -15,6 +15,7 @@ Here are some of the projects I've been working on:
 
 - [**Dish Generator🍛**](https://github.com/tossik8/dish-generator): Using GenAI, our team suggested various dishes to the user based on the ingredients they had.
 - [**Dogs🦮 Vs Cats🐈**](https://github.com/tossik8/dogs_vs_cats): I created an image classification model to classify images and made a website using Vanilla JS and FastAPI.
+- [**Broadcast Server**](https://github.com/tossik8/broadcast-server): Build a broadcast cli tool which allows you to broadcast messages to connected clients.
 - [**Data Structures**](https://github.com/tossik8/data-structures): Knowing your data structures never hurts, am I right?
 
 ## 📫 How to Reach Me
