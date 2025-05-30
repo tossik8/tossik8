@@ -1,9 +1,7 @@
 > "Make it work, make it right, make it fast. – Kent Beck"
 # Hi there, I'm Tossik8! 👋
 
-I am a **CS major** who is passionate about **software development**. I am happy that I can confidently say that. For the longest time, I was jumping from area to area, like front-end, back-end, data science, data analytics, etc., etc., etc. Basically, trying to go forward while turning my head round and round all the time. Now, I finally set a path for myself and I am looking straight ahead this time.
-
-I enjoy building new products - it is so fascinating. There are so many things to consider, so many roadblocks to face, so many challenges to solve. Addmittedly, it is frustrating sometimes, BUT as Chris Bosh said, "Legends aren't defined by their successes, they're defined by how they bounce back from their failures.", so I get over the frustrations and figure out how to overcome the obstacles I am facing in order to build useful, remarkable, and impactful products.
+I am a **CS major** who is passionate about **software development**. I enjoy building new products - it is so fascinating! There are so many things to consider, so many roadblocks to face, so many challenges to solve. Addmittedly, it is frustrating sometimes, BUT as Chris Bosh said, "Legends aren't defined by their successes, they're defined by how they bounce back from their failures." So, I get over the frustrations and figure out how to overcome the obstacles I am facing in order to build useful, remarkable, and impactful products.
 
 ## 🛠 Technologies & Tools
 
@@ -38,4 +36,4 @@ Here are some of the projects I've been working on:
 
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech. Peace out✌️!
 
-![Tossik8's GitHub stats](https://github-readme-stats.vercel.app/api?username=tossik8&show_icons=true&theme=radical)
+![tossik8's Stats](https://github-readme-stats.vercel.app/api?username=tossik8&show_icons=true&count_private=true)
