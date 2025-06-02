@@ -23,7 +23,7 @@ I am a **CS major** who is passionate about **software development**. I enjoy bu
 
 Here are some cool projects I've worked on:
 
-- [**Time Tracking CLI**](https://github.com/tossik8/tracker): A project to help track how much time I spend on different projects. I'd be happy if you use it too! 
+- [**Productivity Tracker**](https://github.com/tossik8/tracker): A project to help track how much time I spend on different projects. I'd be happy if you use it too! 
 - [**Electronics Store**](https://github.com/tossik8/electronics-store): A full stack application made with React, Express.js, and PostgreSQL.
 - [**Broadcast Server**](https://github.com/tossik8/broadcast-server): Build a broadcast CLI tool which allows you to broadcast messages to connected clients in your local network.
 
